@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi there 👋, I'm Alessio Guarachi</h1>
-<h3 align="center">Neuroengineer</h3>
+Alessio Guarachi
+
+Neuroengineer
 
 - 🔭 I’m currently working on **Deep Learning projects**.
 
