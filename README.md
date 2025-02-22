@@ -23,7 +23,7 @@ Neuroengineer
 - 🌱 I’m currently learning **how to deploy Deep Learning models**.
 
 ## Research focus
-- EEG processing
+- Early diagnosis of diseases
 - Deep Learning
 - Brain-Computer Interfaces
 - Magnetic Resonance Imaging
