@@ -24,9 +24,9 @@ Neuroengineer
 
 ## Research focus
 - Early diagnosis of diseases
-- Deep Learning
+- Machine Learning in Healthcare
 - Brain-Computer Interfaces
-- Magnetic Resonance Imaging
+- Neurological disorders
 
 
 <h3 align="left">Languages</h3>
